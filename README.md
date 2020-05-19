@@ -1,4 +1,8 @@
 # Twaddle Chat App
+
+![](https://github.com/OsamaMustafa32/Twaddle_ChatApp/blob/master/Twaddle%20Chat.gif)
+
+
 ### Firebase is integrated with this Application.
 ### Application is using Firebase Cloud Firestore as well as the Firebase authentication package to equip this application with a cloud-based NoSQL database and secure authentication methods.
 #### Twaddle chat App is a Flutter application.
