@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992739331871",
+    "firebase_url": "https://chat-app-6ec02.firebaseio.com",
+    "project_id": "chat-app-6ec02",
+    "storage_bucket": "chat-app-6ec02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992739331871:android:d783e134b8d3fc89c62a2a",
+        "android_client_info": {
+          "package_name": "osamamustafa.twaddlechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992739331871-9guj2eeqf848kgo1qi5nsjuqibnrk4mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK1K-7DGHytXCJJkzpYMPFAY8zfUTPz6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992739331871-9guj2eeqf848kgo1qi5nsjuqibnrk4mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
