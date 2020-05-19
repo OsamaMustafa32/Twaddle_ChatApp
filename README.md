@@ -1,6 +1,11 @@
-# twaddlechat
+# Twaddle Chat App
+## Firebase is integrated with this Application.
+## Application is using Firebase Cloud Firestore as well as the Firebase authentication package to equip this application with a cloud-based NoSQL database and secure authentication methods.
+### Twaddle chat App is a Flutter application.
+### This Application work as a Group Chatting application.
+### It is build as a modern messaging app where users can sign up and log in to chat.
 
-A new Flutter application.
+
 
 ## Getting Started
 
